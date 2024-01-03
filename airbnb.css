@@ -28,37 +28,37 @@
  }
 
  .anyweek {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: grey;
-    font-weight: 100;
- }
-
- .fa-magnifying-glass {
-    font-size: x-large;
- }
-
- .fa-filter {
-    font-size: larger
- }
-
- .section2 {
-   display: grid;
-   grid-template-columns: 1fr 1fr 1fr 1fr;
- }
-
- .section2repeats {
-   display: grid;
-   grid-template-rows: 5fr 1fr;
-   height: 100px;
- }
-
- .accomtypeicon {
-   font-size:xx-large;
-   color: rgb(95, 90, 90);
- }
-
- .accomtype {
-   text-align: center;
-   color: rgb(95, 90, 90);
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
- }
+   color: grey;
+   font-weight: 100;
+}
+
+.fa-magnifying-glass {
+   font-size: x-large;
+}
+
+.fa-filter {
+   font-size: larger;
+}
+
+.section2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.section2repeats {
+  display: grid;
+  grid-template-rows: 5fr 1fr;
+  height: 100px;
+}
+
+.accomtypeicon {
+  font-size:xx-large;
+  color: rgb(95, 90, 90);
+}
+
+.accomtype {
+  text-align: center;
+  color: rgb(95, 90, 90);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
