@@ -62,3 +62,51 @@
   color: rgb(95, 90, 90);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.image {
+   width: 94%;
+   border-radius: 3%;
+   margin-left: 3%;
+   margin-right: 5%;
+}
+
+.overlaytext {
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: larger;
+   color: black;
+   position: absolute;
+   top:5%;
+   left: 8%;
+   background-color: white;
+   border-radius: 25px;
+   padding: 1%;
+}
+
+.imagediv {
+   position: relative;
+   width: 100%;
+   margin-bottom: 12%;
+}
+
+.fa-heart{
+   color: white;
+   position: absolute;
+   top: 5%;
+   right: 8%;
+   font-size: xx-large;
+}
+
+.section3text {
+   margin-left: 3%;
+   margin-right: 3%;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: larger;
+}
+
+.accomdeets {
+   color: grey;
+}
+
+.rating {
+   float: right;
+}
