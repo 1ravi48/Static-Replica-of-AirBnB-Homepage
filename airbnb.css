@@ -110,3 +110,32 @@
 .rating {
    float: right;
 }
+
+.continue {
+   font-size: x-large;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-align: center;
+   font-weight: bold;
+}
+
+.show {
+   background-color: black;
+   width: 30%;
+   margin: auto;
+   height: 50px;
+   display: table;
+   border-radius: 10%;
+}
+
+.showtext {
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: larger;
+   text-align: center;
+   color: white;
+   vertical-align: middle;
+   display: table-cell;
+}
+
+.section4 {
+   height: 150px;
+}
